@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="10" total="15" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-08T14:38:30 IST" name="Suite" finished-at="2022-03-08T14:38:31 IST" duration-ms="101">
+    <groups>
+      <group name="Smoke">
+        <method signature="day2.ploan()[pri:0, instance:testngpractise.day2@18df8434]" name="ploan" class="testngpractise.day2"/>
+        <method signature="day3.MobileLogincarLoan()[pri:0, instance:testngpractise.day3@5677323c]" name="MobileLogincarLoan" class="testngpractise.day3"/>
+        <method signature="day4.MobileLoginHomeLoan()[pri:0, instance:testngpractise.day4@13fd2ccd]" name="MobileLoginHomeLoan" class="testngpractise.day4"/>
+        <method signature="t1.BheyDude()[pri:0, instance:testngpractise.t1@65c7a252]" name="BheyDude" class="testngpractise.t1"/>
+        <method signature="t1.NheyDude()[pri:0, instance:testngpractise.t1@65c7a252]" name="NheyDude" class="testngpractise.t1"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test started-at="2022-03-08T14:38:30 IST" name="Test" finished-at="2022-03-08T14:38:31 IST" duration-ms="101">
+      <class name="testngpractise.day4">
+        <test-method signature="MobileLoginHomeLoan()[pri:0, instance:testngpractise.day4@13fd2ccd]" started-at="2022-03-08T14:38:31 IST" name="MobileLoginHomeLoan" finished-at="2022-03-08T14:38:31 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileLoginHomeLoan -->
+      </class> <!-- testngpractise.day4 -->
+      <class name="testngpractise.t1">
+        <test-method signature="BheyDude()[pri:0, instance:testngpractise.t1@65c7a252]" started-at="2022-03-08T14:38:31 IST" name="BheyDude" finished-at="2022-03-08T14:38:31 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BheyDude -->
+        <test-method signature="NheyDude()[pri:0, instance:testngpractise.t1@65c7a252]" started-at="2022-03-08T14:38:31 IST" name="NheyDude" finished-at="2022-03-08T14:38:31 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NheyDude -->
+      </class> <!-- testngpractise.t1 -->
+      <class name="testngpractise.day3">
+        <test-method signature="MobileLogincarLoan()[pri:0, instance:testngpractise.day3@5677323c]" started-at="2022-03-08T14:38:31 IST" name="MobileLogincarLoan" finished-at="2022-03-08T14:38:31 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileLogincarLoan -->
+      </class> <!-- testngpractise.day3 -->
+      <class name="testngpractise.day2">
+        <test-method signature="ploan()[pri:0, instance:testngpractise.day2@18df8434]" started-at="2022-03-08T14:38:31 IST" name="ploan" finished-at="2022-03-08T14:38:31 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ploan -->
+      </class> <!-- testngpractise.day2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
